@@ -87,5 +87,4 @@ These examples demonstrate key JavaScript concepts:
 Understanding these helps prevent unexpected behavior in JavaScript.
 ### Connect With Me 🤝 :
 - LinkedIn : [HARSHAA SG](https://www.linkedin.com/in/harshaasg)  
-
----
+- Gmail : harshaavardhan8@gmail.com
